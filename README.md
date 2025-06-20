@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib3342&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib3342" /> </p>
 
-- 🌱 I’m currently learning **python**
-
 - 💬 Ask me about **JavaScript, react , bootstrap, tailwind**
 
 - 📫 How to reach me **shobiisultan14@gmail.com**
