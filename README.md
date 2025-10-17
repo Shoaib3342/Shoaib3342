@@ -6,6 +6,8 @@
 
 - 💬 Ask me about **JavaScript, react , bootstrap, tailwind**
 
+-  Working and learning about Python**
+
 - 📫 How to reach me **shobiisultan14@gmail.com**
 
 - ⚡ Fun fact **Hard Working**
